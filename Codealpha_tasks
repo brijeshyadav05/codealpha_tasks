@@ -1,0 +1,11 @@
+# Navigate to your local repository
+cd path/to/codealpha_tasks
+
+# Add the remote repository
+git remote add origin https://github.com/YOUR_USERNAME/codealpha_tasks.git
+
+# Rename branch to main (GitHub default)
+git branch -M main
+
+# Push your code
+git push -u origin main
